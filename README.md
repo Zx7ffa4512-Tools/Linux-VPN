@@ -1,7 +1,7 @@
 Wicd-Network-Manager
 ====================
 
-Linux VPN<br/>
+Linux VPN  Network-Manager<br/>
 
 ###安装<br/>
 apt-get install network-manager-gnome<br/>
