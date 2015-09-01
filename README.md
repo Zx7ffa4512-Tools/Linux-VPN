@@ -1,8 +1,6 @@
 Wicd-Network-Manager
 ====================
 
-Linux VPN  Network-Manager<br/>
-
 ###安装<br/>
     apt-get install network-manager-gnome<br/>
     apt-get install network-manager-pptp<br/>
@@ -21,7 +19,7 @@ Linux VPN  Network-Manager<br/>
 
 
 
-Kali Linux安装VPN
+Kali2.0 Linux安装VPN
 ====================
     apt-get install -y network-manager-openvpn-gnome network-manager-pptp network-manager-pptp-gnome network-manager-vpnc network-manager-vpnc-gnome<br/>
 
