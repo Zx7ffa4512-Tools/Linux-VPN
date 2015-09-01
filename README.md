@@ -14,3 +14,15 @@ service network-manager restart <br/>
 
 ###配置<br/>
 添加VPN，在高级设置中勾选 Use Point-to-Poingt encryption(MPPE)<br/>
+
+
+
+
+
+
+
+###Kali Linux安装VPN<br/>
+apt-get install -y network-manager-openvpn-gnome network-manager-pptp network-manager-pptp-gnome network-manager-vpnc network-manager-vpnc-gnome<br/>
+
+###配置<br/>
+勾选MPPE,PPP回响<br/>
